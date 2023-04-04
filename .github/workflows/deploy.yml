@@ -28,7 +28,7 @@ jobs:
       - name: Build the MKdocs site 
         run: |
           mkdocs build
-          cp site/* dist
+          cp -r site/* dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
