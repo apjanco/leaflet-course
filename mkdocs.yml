@@ -5,17 +5,17 @@ theme:
   palette:
   - media: '(prefers-color-scheme: light)'
     scheme: default
-    primary: teal
-    accent: amber
+    primary: blue grey
+    accent: light blue
     toggle:
-      icon: material/lightbulb
+      icon: material/weather-sunny
       name: Switch to light mode
   - media: '(prefers-color-scheme: dark)'
     scheme: slate
-    primary: teal
-    accent: amber
+    primary: blue grey
+    accent: light blue
     toggle:
-      icon: material/lightbulb-outline
+      icon: material/weather-night
       name: Switch to dark mode
   features:
   - search.suggest
