@@ -1,7 +1,10 @@
-site_name: DreamLab Leaflet
+site_name: Humanities Mapping
 repo_url: https://apjanco.github.io/leaflet-course/
+repo_name: apjanco/leaflet-course
 theme:
   name: material
+  icon:
+    logo: material/leaf
   palette:
   - media: '(prefers-color-scheme: light)'
     scheme: default
@@ -21,3 +24,5 @@ theme:
   - search.suggest
   - search.highlight
   - content.tabs.link
+extra:
+  generator: false
