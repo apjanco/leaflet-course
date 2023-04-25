@@ -21,6 +21,7 @@ Example with Green Book data, use http://geojson.io to convert
 _1:30 pm - 3:00 pm_ 
 
 - About the [Accessibilty Mapping Project](https://web.sas.upenn.edu/access-map/accessibility-map/)
+- [WheelMap](https://wheelmap.org/nodes/-32120084)
 - [OpenStreetMap Data](https://wiki.openstreetmap.org/wiki/Beginners_Guide_1.3)
 - Accessibility Map exercise 
   - [How to map for the needs of people with disabilities](https://wiki.openstreetmap.org/wiki/How_to_map_for_the_needs_of_people_with_disabilities)

@@ -1,6 +1,6 @@
 
 # Course Description
-This workshop focuses on Leaflet.js, an open-source JavaScript library for creating interactive maps. Over the week, you will learn to create maps with Leaflet. We will explore Leaflet’s capabilities and scholarship on mapping in the digital humanities. We will identify how simple interactive maps can facilitate humanities scholarship and public engagement.
+This workshop focuses on [Leaflet.js](https://leafletjs.com/), an open-source JavaScript library for creating interactive maps. Over the week, you will learn to create maps with Leaflet. We will explore Leaflet’s capabilities and scholarship on mapping in the digital humanities. We will identify how simple interactive maps can facilitate humanities scholarship and public engagement.
 
 At the beginning of the workshop, we will identify and explore spatial data sources. What data is needed for your projects, and how can it be gathered? Second, how does spatial information need to be structured for mapping, and what are the main types of spatial data? Shifting from the data, we’ll learn just enough JavaScript to facilitate work with Leaflet. We will explore map base layers, markers, and data layers. We’ll cover how to search and filter elements on the map.  Finally, we’ll explore problems of spatial and temporal ambiguity as well as change over time.
 
