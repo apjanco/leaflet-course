@@ -5,6 +5,7 @@ theme:
   name: material
   icon:
     logo: material/leaf
+  favicon: images/favicon.png
   palette:
   - media: '(prefers-color-scheme: light)'
     scheme: default

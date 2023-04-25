@@ -3,6 +3,7 @@
 9am Coffee
 <hr>
 
+
 G 10am - Class time (2)
 <hr>
 Noon Lunch
@@ -15,3 +16,4 @@ I 3:30pm-5pm Class time (1:30)
 <hr>
 5:15-7pm Sira Green
 
+[Historical Basemaps](https://github.com/aourednik/historical-basemaps)

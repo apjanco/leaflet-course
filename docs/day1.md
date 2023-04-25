@@ -6,8 +6,7 @@ _10:45am - 12:00 (75 minutes)_
 - Group introductions and review of workplan 
 - Identify participant goals and priorities for the course 
 - Mapping as research (slides), reading:
-  - [Using Maps to See Beyond the Obvious](https://kit.exposingtheinvisible.org/en/maps.html)
-  - [Usando Mapas para Ver más Allá de lo Obvio](https://kit.exposingtheinvisible.org/es/maps.html)
+  - [Using Maps to See Beyond the Obvious](https://kit.exposingtheinvisible.org/en/maps.html) / [Usando Mapas para Ver más Allá de lo Obvio](https://kit.exposingtheinvisible.org/es/maps.html)
 
 <hr>
 
@@ -47,8 +46,7 @@ _3:00 - 3:30 pm_
 ## 🔥 DH Project Reviews and Accessibility Project
 _3:30 - 5:00 pm (90 minutes)_ 
 
-- Group project worktime and presentation
-- Introduction to OpenStreetMap and campus accessibility map project
+- Group project worktime and presentations
 
 <hr>
 
