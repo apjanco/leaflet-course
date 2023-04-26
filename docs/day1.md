@@ -16,10 +16,10 @@ _10:45am - 12:00_
 
 <hr>
 
-## 🦮 Seeing Like a Map
+## 🦮 Seeing with Maps
 _1:30 - 3:00 pm (90 minutes)_
 
-- Critical Mapping (slides), reading:
+- Critical Mapping (slides)
     - [Thinking Critically about Maps](https://kit.exposingtheinvisible.org/en/critical-maps.html)
 
 - Group project: Review of digital humanities a project and its use of mapping
@@ -32,13 +32,25 @@ _1:30 - 3:00 pm (90 minutes)_
         - [tutorial](https://craftingdh.netlify.app/tutorials/mapping/)
         - [review](https://reviewsindh.pubpub.org/pub/slave-revolt-in-jamaica/release/1)
 
+    - The Chinese Deathscape: Grave Reform in Modern China
+        - [site](https://chinesedeathscape.org/)
+        - [about the "Graves Platform](https://chinesedeathscape.supdigital.org/read/colophon)
+
     - Pictoral St. Louis
         - [map](http://jarednielsen.com/pictorial-st-louis/index.html)
         - [code](https://github.com/nielsenjared/pictorial-st-louis)
         - [blog](https://jarednielsen.com/make-interactive-story-map-leaflet-non-geographical-images/)
 
+    - Books of Duchesses 
+      - [map](https://booksofduchesses.com/)  
+      - [blog](https://www.karwansaraypublishers.com/en-us/blogs/medieval-world-blog/books-of-duchesses)
+
+    - Chernobyl/Chornobyl Project
+        - [map](https://harvard-cga.maps.arcgis.com/apps/webappviewer/index.html?id=5143021e6379448c966900096f21b5e3)
+        - [about](https://gis.huri.harvard.edu/chornobyl)
+        
     - Another project of your choosing
-    
+
 <hr>
 
 ## ☕ Coffee Break
