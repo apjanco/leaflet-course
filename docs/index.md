@@ -13,4 +13,4 @@ This workshop includes discussions, practical exercises, and project work. By th
 - The skills needed to publish Leaflet maps on the Internet
 
 # Instructor
-Dr. Andrew Janco is a Research Software Engineer at the University of Pennsylvania.  Andy teaches workshops in natural language processing, machine learning, and web development. He is a PhD in history from the University of Chicago and translates poetry from Russian and Ukrainian.
+Andy Janco is a Research Software Engineer at the University of Pennsylvania.  Andy teaches workshops in natural language processing, machine learning, and web development. He is a PhD in history from the University of Chicago and translates poetry from Russian and Ukrainian.
