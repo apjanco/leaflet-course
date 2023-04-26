@@ -1,12 +1,14 @@
 # 🌱 June 5
 
+<hr>
+
 ## 🗺️ Digital Humanities + Mapping
-_10:45am - 12:00 (75 minutes)_
+_10:45am - 12:00_
 
 - Group introductions and review of workplan 
 - Identify participant goals and priorities for the course 
-- Mapping as research (slides), reading:
-  - [Using Maps to See Beyond the Obvious](https://kit.exposingtheinvisible.org/en/maps.html) / [Usando Mapas para Ver más Allá de lo Obvio](https://kit.exposingtheinvisible.org/es/maps.html)
+- Mapping as research (slides)
+- [Using Maps to See Beyond the Obvious](https://kit.exposingtheinvisible.org/en/maps.html) / [Usando Mapas para Ver más Allá de lo Obvio](https://kit.exposingtheinvisible.org/es/maps.html)
 
 <hr>
 
@@ -35,7 +37,8 @@ _1:30 - 3:00 pm (90 minutes)_
         - [code](https://github.com/nielsenjared/pictorial-st-louis)
         - [blog](https://jarednielsen.com/make-interactive-story-map-leaflet-non-geographical-images/)
 
-
+    - Another project of your choosing
+    
 <hr>
 
 ## ☕ Coffee Break

@@ -1,9 +1,11 @@
 # 🍂 June 8 
 
+<hr>
+
 ## 🎮 Interactivity
 _10:00 am - 12:00 pm_ 
 
-- search (cdn)
+- [search](https://github.com/stefanocudini/leaflet-search#examples) ([cdn](https://cdnjs.com/libraries/leaflet-search))
 - filters
 - [Layer Controls](https://leafletjs.com/examples/layers-control/)
 - [Overlays](https://leafletjs.com/examples/overlays/)
