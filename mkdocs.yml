@@ -3,6 +3,8 @@ repo_url: https://apjanco.github.io/leaflet-course/
 repo_name: apjanco/leaflet-course
 theme:
   name: material
+  font:
+    text: Libre Franklin
   icon:
     logo: material/leaf
   favicon: images/favicon.png

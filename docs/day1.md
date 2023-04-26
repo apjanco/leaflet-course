@@ -38,8 +38,7 @@ _1:30 - 3:00 pm (90 minutes)_
 
 <hr>
 
-##  Coffee Break
-_3:00 - 3:30 pm_ 
+## ☕ Coffee Break
 
 <hr>
 
@@ -50,12 +49,12 @@ _3:30 - 5:00 pm (90 minutes)_
 
 <hr>
 
-## Opening Keynote
+## ☀️ Opening Keynote
 _5:15 - 6:00 pm_
 
 <hr>
 
-## Reception
+## 🌙 Reception
 _6:00 - 7:00 pm_
 
 <hr>

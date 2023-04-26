@@ -33,7 +33,7 @@ _1:30 pm - 3:00 pm_
 
 <hr>
 
-## 🌏 OpenStreetMap Project
+## 🌏 Data Gathering
 _3:30 pm - 5:00 pm_ 
 
 - Roam campus to gather data

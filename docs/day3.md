@@ -17,7 +17,7 @@ _10:00 am - 12:00 pm_
 _1:30 pm - 3:00 pm_ 
 
 - Simple leaflet maps
-- Loading data into your map (CSV, JSON)
+- Loading data into your map (CSV, [GeoJSON](https://leafletjs.com/examples/geojson/))
 - Review [Leaflet examples](https://tomickigrzegorz.github.io/leaflet-examples/) and [code activity](https://github.com/tomickigrzegorz/leaflet-examples/tree/master/docs) 
 
 <hr>
@@ -29,10 +29,11 @@ _1:30 pm - 3:00 pm_
 ## 🍭 Customizing Your Map
 _3:30 pm - 5:00 pm_ 
 
-- Map base layers
+- [Map base layers](https://leaflet-extras.github.io/leaflet-providers/preview/)
+- [Panes](https://leafletjs.com/examples/map-panes/)
 - [Historical Basemaps](https://github.com/aourednik/historical-basemaps)
 - Georectifying historical maps and other images
-- Markers, popups, tooltips
+- [Markers](https://leafletjs.com/examples/custom-icons/), [popups](https://leafletjs.com/reference.html#popup), [tooltips](https://leafletjs.com/reference.html#tooltip)
 - [Design principles of cartography](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/design-principles-for-cartography/)
 
 <hr>
