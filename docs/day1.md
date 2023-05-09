@@ -42,8 +42,8 @@ _1:30 - 3:00 pm (90 minutes)_
         - [blog](https://jarednielsen.com/make-interactive-story-map-leaflet-non-geographical-images/)
 
     - Books of Duchesses 
-      - [map](https://booksofduchesses.com/)  
-      - [blog](https://www.karwansaraypublishers.com/en-us/blogs/medieval-world-blog/books-of-duchesses)
+        - [map](https://booksofduchesses.com/)  
+        - [blog](https://www.karwansaraypublishers.com/en-us/blogs/medieval-world-blog/books-of-duchesses)
 
     - Chernobyl/Chornobyl Project
         - [map](https://harvard-cga.maps.arcgis.com/apps/webappviewer/index.html?id=5143021e6379448c966900096f21b5e3)
@@ -57,14 +57,14 @@ _1:30 - 3:00 pm (90 minutes)_
 
 <hr>
 
-## 🔥 DH Project Reviews and Accessibility Project
+## 🔥 DH Project Reviews
 _3:30 - 5:00 pm (90 minutes)_ 
 
 - Group project worktime and presentations
 
 <hr>
 
-## ☀️ Opening Keynote
+## ☀️ Opening Keynote ~ Shannon Mattern
 _5:15 - 6:00 pm_
 
 <hr>

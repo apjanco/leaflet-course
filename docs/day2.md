@@ -5,11 +5,12 @@
 ## 🌎 Spatial Data
 _10:00 am - 12:00 pm_  
 
-- What makes that data so spatial?
-- Finding Spatial Data 
-Example with Green Book data, use http://geojson.io to convert
+- [Working with Spatial Data](https://lincolnmullen.com/projects/spatial-workshop/spatial-data.html)
 
-- Making Spatial Data (geocoding, georeferencing, projections)
+- [Finding Spatial Data](https://libguides.bc.edu/gis/finddata)
+
+
+- [Making Spatial Data](https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer)
 
 
 <hr>
