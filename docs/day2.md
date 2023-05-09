@@ -10,9 +10,10 @@ _10:00 am - 12:00 pm_
 - [Finding Spatial Data](https://libguides.bc.edu/gis/finddata)
 
 
-- [Making Spatial Data](https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer)
+- Making Spatial Data
+    - [Geocoding](https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer)
 
-
+    - [Geolocation](https://www.bellingcat.com/tag/geolocation/)
 <hr>
 
 ## 😋 Lunch
