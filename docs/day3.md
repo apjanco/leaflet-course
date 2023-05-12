@@ -4,10 +4,11 @@
 
 ## 🍃 Hello Leaflet
 _10:00 am - 12:00 pm_ 
-
-- What is [Leaflet](https://leafletjs.com/)? Why use it over other options? 
-- Setup for coding, install [VSCode](https://code.visualstudio.com/), [GitHub](https://github.com/join)
--  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) + [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) essentials
+- [Make a Web Map with Leaflet](https://blog.glitch.com/post/make-a-web-map-with-leaflet)
+- [Glitch](https://help.glitch.com/kb/section/2/)
+- [Leaflet Example in Glitch](https://glitch.com/edit?utm_source=button&utm_medium=button&utm_campaign=glitchButton&utm_content=starter-leaflet/#!/remix/starter-leaflet)
+- [HTML -- index.html](https://developer.mozilla.org/en-US/docs/Web/HTML) essentials
+- [JavaScript -- script.js](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
 <hr>
 
