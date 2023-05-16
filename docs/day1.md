@@ -36,7 +36,8 @@ _1:30 - 3:00 pm (90 minutes)_
 ## 🦮 DH Project Reviews
 _3:30 - 5:00 pm (90 minutes)_ 
 
-- Group project: Review of digital humanities a project and its use of mapping
+- Group project: Review of digital humanities a project and its use of mapping. In pairs, spend 30-40 minutes reviewing the map and associated materials. Prepare a short presentation to the group (5-6 minutes) that offers a brief summary of the project and its purpose, describe its use of mapping technologies as well as interesting, outstanding or problematic issues. <sup style="font-size: 50%;">[1](https://reviewsindh.pubpub.org/review-process)</sup> 
+
     - Torn Apart / Separados, vol. 2
         - [map](https://xpmethod.columbia.edu/torn-apart/volume/2/)
         - [data](https://github.com/xpmethod/torn-apart-open-data)
