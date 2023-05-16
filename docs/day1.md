@@ -7,8 +7,10 @@ _10:45am - 12:00_
 
 - Group introductions and review of workplan 
 - Identify participant goals and priorities for the course 
-- Mapping as research (slides)
 - [Using Maps to See Beyond the Obvious](https://kit.exposingtheinvisible.org/en/maps.html) / [Usando Mapas para Ver más Allá de lo Obvio](https://kit.exposingtheinvisible.org/es/maps.html)
+
+- [Thinking Critically about Maps](https://kit.exposingtheinvisible.org/en/critical-maps.html)
+
 
 <hr>
 
@@ -16,11 +18,23 @@ _10:45am - 12:00_
 
 <hr>
 
-## 🦮 Seeing with Maps
+## 🎯 Finding Places in Texts and Images
 _1:30 - 3:00 pm (90 minutes)_
 
-- Critical Mapping (slides)
-    - [Thinking Critically about Maps](https://kit.exposingtheinvisible.org/en/critical-maps.html)
+- [Geocoding](https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer)
+
+- [Geolocation](https://www.bellingcat.com/tag/geolocation/)
+
+
+<hr>
+
+## ☕ Coffee Break
+
+<hr>
+
+
+## 🦮 DH Project Reviews
+_3:30 - 5:00 pm (90 minutes)_ 
 
 - Group project: Review of digital humanities a project and its use of mapping
     - Torn Apart / Separados, vol. 2
@@ -53,21 +67,12 @@ _1:30 - 3:00 pm (90 minutes)_
 
 <hr>
 
-## ☕ Coffee Break
-
-<hr>
-
-## 🔥 DH Project Reviews
-_3:30 - 5:00 pm (90 minutes)_ 
-
-- Group project worktime and presentations
-
-<hr>
 
 ## ☀️ Opening Keynote ~ Shannon Mattern
 _5:15 - 6:00 pm_
 
 <hr>
+
 
 ## 🌙 Reception
 _6:00 - 7:00 pm_
