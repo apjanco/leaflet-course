@@ -14,14 +14,14 @@ theme:
     primary: blue grey
     accent: light blue
     toggle:
-      icon: material/weather-sunny
+      icon: material/leaf-circle
       name: Switch to light mode
   - media: '(prefers-color-scheme: dark)'
     scheme: slate
     primary: blue grey
     accent: light blue
     toggle:
-      icon: material/weather-night
+      icon: material/leaf-circle-outline
       name: Switch to dark mode
   features:
   - search.suggest
@@ -35,5 +35,3 @@ nav:
 - 🌿 June 6: day2.md
 - 🍁 June 7: day3.md
 - 🍂 June 8: day4.md
-- More:
-  - 🔗 Links: links.md
