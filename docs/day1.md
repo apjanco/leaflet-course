@@ -11,6 +11,7 @@ _10:45am - 12:00_
 
 - [Thinking Critically about Maps](https://kit.exposingtheinvisible.org/en/critical-maps.html)
 
+- [Mapping the Field](https://mappingthefield.wordsinspace.net/2021/) syllabus
 
 <hr>
 
