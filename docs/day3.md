@@ -5,12 +5,15 @@
 ## 🍃 Hello Leaflet
 _10:00 am - 12:00 pm_ 
 
-- [Make a Web Map with Leaflet](https://blog.glitch.com/post/make-a-web-map-with-leaflet)
-- [Glitch](https://help.glitch.com/kb/section/2/)
-- [Leaflet Example in Glitch](https://glitch.com/edit?utm_source=button&utm_medium=button&utm_campaign=glitchButton&utm_content=starter-leaflet/#!/remix/starter-leaflet)
-- [HTML -- index.html](https://developer.mozilla.org/en-US/docs/Web/HTML) essentials
-- [JavaScript -- script.js](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+- [How to Use Glitch](https://help.glitch.com/kb/section/2/)
+- [Hello Leaflet!](https://hexagonal-sapphire-dress.glitch.me/)
+- [Hello Leaflet! Code](https://glitch.com/edit/#!/hexagonal-sapphire-dress)
+    - [HyperText Markup Language (HTML) -- index.html](https://developer.mozilla.org/en-US/docs/Web/HTML) essentials
+    - [JavaScript -- script.js](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+    - [Debugging with Browser Console](https://firefox-source-docs.mozilla.org/devtools-user/browser_console/index.html)
+    - [Same with Chrome](https://developer.chrome.com/docs/devtools/console/)
 
+    
 <hr>
 
 ## 😋 Lunch
@@ -20,9 +23,10 @@ _10:00 am - 12:00 pm_
 ## 🌐 Minimal Maps 
 _1:30 - 3:00 pm_ 
 
+- [Make a Web Map with Leaflet](https://blog.glitch.com/post/make-a-web-map-with-leaflet)
 - [Leaflet quick start](https://leafletjs.com/examples/quick-start/)
+- [CSS -- style.css](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Loading data into your map (CSV, [GeoJSON](https://leafletjs.com/examples/geojson/))
-- Review [Leaflet examples](https://tomickigrzegorz.github.io/leaflet-examples/) and [code activity](https://github.com/tomickigrzegorz/leaflet-examples/tree/master/docs) 
 
 <hr>
 
@@ -33,7 +37,12 @@ _1:30 - 3:00 pm_
 ## 🍭 Customizing Your Map
 _3:30 pm - 5:00 pm_ 
 
-- [Map base layers](https://leaflet-extras.github.io/leaflet-providers/preview/)
+- [Map base layers](https://leaflet-extras.github.io/leaflet-providers/preview/), [more info here](https://github.com/leaflet-extras/leaflet-providers)
+- [Markers](https://leafletjs.com/examples/custom-icons/)
+
+- Review [Leaflet examples](https://tomickigrzegorz.github.io/leaflet-examples/) and [code activity](https://github.com/tomickigrzegorz/leaflet-examples/tree/master/docs) 
+
+
 - [Panes](https://leafletjs.com/examples/map-panes/)
 - [Historical Basemaps](https://github.com/aourednik/historical-basemaps)
 - Georectifying historical maps and other images

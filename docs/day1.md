@@ -70,7 +70,7 @@ _3:30 - 5:00 pm (90 minutes)_
 <hr>
 
 
-## ☀️ Opening Keynote ~ Shannon Mattern
+## ☀️ Opening Keynote ~ Shannon Mattern "Modeling Doubt, Coding Humility: A Speculative Syllabus"
 _5:15 - 6:00 pm_
 
 <hr>
