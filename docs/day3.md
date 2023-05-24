@@ -37,8 +37,13 @@ _1:30 - 3:00 pm_
 ## 🍭 Customizing Your Map
 _3:30 pm - 5:00 pm_ 
 
-- [Map base layers](https://leaflet-extras.github.io/leaflet-providers/preview/), [more info here](https://github.com/leaflet-extras/leaflet-providers)
 - [Markers](https://leafletjs.com/examples/custom-icons/)
+- [Map base layers](https://leaflet-extras.github.io/leaflet-providers/preview/), [more info here](https://github.com/leaflet-extras/leaflet-providers)
+
+https://guides.library.ucsc.edu/DS/Resources/StoryMapsBasemap
+- [Historical Basemaps](https://github.com/aourednik/historical-basemaps)
+
+
 
 - Review [Leaflet examples](https://tomickigrzegorz.github.io/leaflet-examples/) and [code activity](https://github.com/tomickigrzegorz/leaflet-examples/tree/master/docs) 
 
