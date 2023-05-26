@@ -1,9 +1,14 @@
 # 🌱 June 5
 
+Location:
+
+- Latitude + Longitude [39.952, -75.193](https://www.openstreetmap.org/#map=18/39.95268/-75.19372) 
+- [Van Pelt Library Room 627](https://www.library.upenn.edu/floor-plans/vanpelt/sixth)
+
 <hr>
 
 ## 🗺️ Digital Humanities + Mapping
-_10:45am - 12:00_
+_10:45am - 12:00_ 
 
 - Group introductions and review of workplan 
 - Identify participant goals and priorities for the course 
@@ -70,8 +75,11 @@ _3:30 - 5:00 pm (90 minutes)_
 <hr>
 
 
-## ☀️ Opening Keynote ~ Shannon Mattern "Modeling Doubt, Coding Humility: A Speculative Syllabus"
+## ☀️ Opening Keynote 
 _5:15 - 6:00 pm_
+
+#### Shannon Mattern 
+Modeling Doubt, Coding Humility: A Speculative Syllabus
 
 <hr>
 
