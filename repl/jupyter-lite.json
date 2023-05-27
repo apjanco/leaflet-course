@@ -5,7 +5,14 @@
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
-      ]
+      ],
+      "federated_extensions": [
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.17b005fe12a237b5ee9f.js",
+        "name": "@agoose77/jupyterlab-markup"
+      }]
     }
   }
   

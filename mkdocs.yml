@@ -6,7 +6,7 @@ theme:
   font:
     text: Libre Franklin
   icon:
-    logo: material/leaf
+    logo: fontawesome/brands/pagelines
   favicon: images/favicon.png
   palette:
   - media: '(prefers-color-scheme: light)'
