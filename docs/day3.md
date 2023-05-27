@@ -37,22 +37,16 @@ _1:30 - 3:00 pm_
 ## 🍭 Customizing Your Map
 _3:30 pm - 5:00 pm_ 
 
+
 - [Markers](https://leafletjs.com/examples/custom-icons/)
+- [Tooltips](https://leafletjs.com/reference.html#tooltip)
+- [Popups](https://leafletjs.com/reference.html#popup)
+
+
 - [Map base layers](https://leaflet-extras.github.io/leaflet-providers/preview/), [more info here](https://github.com/leaflet-extras/leaflet-providers)
-
-https://guides.library.ucsc.edu/DS/Resources/StoryMapsBasemap
-- [Historical Basemaps](https://github.com/aourednik/historical-basemaps)
-
-
-
-- Review [Leaflet examples](https://tomickigrzegorz.github.io/leaflet-examples/) and [code activity](https://github.com/tomickigrzegorz/leaflet-examples/tree/master/docs) 
-
-
 - [Panes](https://leafletjs.com/examples/map-panes/)
 - [Historical Basemaps](https://github.com/aourednik/historical-basemaps)
-- Georectifying historical maps and other images
-- [Markers](https://leafletjs.com/examples/custom-icons/), [popups](https://leafletjs.com/reference.html#popup), [tooltips](https://leafletjs.com/reference.html#tooltip)
-- [Design principles of cartography](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/design-principles-for-cartography/)
+- [Georectifying historical maps](https://www.davidrumsey.com/view/georeferencer)
 
 <hr>
 

@@ -22,6 +22,9 @@ _1:30 - 3:00 pm_
 
 - [Non-geographic coordinates](https://leafletjs.com/examples/crs-simple/crs-simple.html)
 - [Custom Layers](https://leafletjs.com/examples/extending/extending-2-layers.html)
+- [Leaflet examples](https://tomickigrzegorz.github.io/leaflet-examples/) and [code](https://github.com/tomickigrzegorz/leaflet-examples/tree/master/docs) 
+- [Experiments](https://github.com/jwasilgeo/leaflet-experiments)
+- [Figures in the Sky: How cultures across the World have seen their myths and legends in the stars](https://figuresinthesky.visualcinnamon.com/)
 - Time for review, clarification and project work
 
 <hr>
