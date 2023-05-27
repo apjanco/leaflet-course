@@ -14,8 +14,6 @@ _10:45am - 12:00_
 - Identify participant goals and priorities for the course 
 - [Using Maps to See Beyond the Obvious](https://kit.exposingtheinvisible.org/en/maps.html) / [Usando Mapas para Ver más Allá de lo Obvio](https://kit.exposingtheinvisible.org/es/maps.html)
 
-- [Thinking Critically about Maps](https://kit.exposingtheinvisible.org/en/critical-maps.html)
-
 - [Mapping the Field](https://mappingthefield.wordsinspace.net/2021/) syllabus
 
 <hr>

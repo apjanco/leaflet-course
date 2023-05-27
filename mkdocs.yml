@@ -31,7 +31,7 @@ extra:
   generator: false
 
 nav:
-- 🌱 June 5: day1.md
-- 🌿 June 6: day2.md
-- 🍁 June 7: day3.md
-- 🍂 June 8: day4.md
+- 🌱 Projects: day1.md
+- 🌿 Data: day2.md
+- 🍁 Maps: day3.md
+- 🍂 DH+Maps: day4.md
