@@ -1,6 +1,6 @@
 ## Spatial Data
 
-
+VA hospital, new hospital
 
 ## Activity/project : OpenStreetMap + Accessibilty Project
 

@@ -7,7 +7,7 @@ _9:00 - 10:00 am_
 
 <hr>
 
-## 🎮 Critical Mapping
+## 🤪 Hacking the Map
 _10:00 am - 12:00 pm_ 
 
 - [Thinking Critically about Maps](https://kit.exposingtheinvisible.org/en/critical-maps.html)
@@ -25,9 +25,10 @@ _10:00 am - 12:00 pm_
 
 <hr>
 
-## 🫨 Hacking the Map
+## 😏 Leaflet Experiments
 _1:30 - 3:00 pm_ 
 
+-[Data humanism](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold)
 - [Leaflet examples](https://tomickigrzegorz.github.io/leaflet-examples/) and [code](https://github.com/tomickigrzegorz/leaflet-examples/tree/master/docs) 
 - [Experiments](https://github.com/jwasilgeo/leaflet-experiments)
 - [Figures in the Sky: How cultures across the World have seen their myths and legends in the stars](https://figuresinthesky.visualcinnamon.com/)
@@ -39,7 +40,7 @@ _1:30 - 3:00 pm_
 <hr>
 
 ## 🫶 Show and Tell/Closing
-_3:30 - 4:00 pm_ 
+_3:30 - 5:00 pm_ 
 
 <hr>
 

@@ -16,8 +16,7 @@ _10:00 am - 12:00 pm_
     - [HyperText Markup Language (HTML) -- index.html](https://developer.mozilla.org/en-US/docs/Web/HTML) essentials
     - [JavaScript -- script.js](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
     - [Debugging with Browser Console](https://firefox-source-docs.mozilla.org/devtools-user/browser_console/index.html)
-    - [Same with Chrome](https://developer.chrome.com/docs/devtools/console/)
-
+    
     
 <hr>
 
