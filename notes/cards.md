@@ -14,6 +14,8 @@ knowing
 experience 
 include
 design
+projection
+spatial 
 
 ## mapping related terms 
 

@@ -2,6 +2,11 @@
 
 <hr>
 
+## ☕ Coffee
+_9:00 - 10:00 am_ 
+
+<hr>
+
 ## 🌎 OpenStreetMap + Accessibilty Project
 _10:00 am - 12:00 pm_  
 

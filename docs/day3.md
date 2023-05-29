@@ -2,6 +2,11 @@
 
 <hr>
 
+## ☕ Coffee
+_9:00 - 10:00 am_ 
+
+<hr>
+
 ## 🍃 Hello Leaflet
 _10:00 am - 12:00 pm_ 
 
@@ -50,5 +55,5 @@ _3:30 pm - 5:00 pm_
 
 <hr>
 
-## 🏞️ Sira Green
+## 🏞️ Happy Hour
 _5:15 - 7:00 pm_ 

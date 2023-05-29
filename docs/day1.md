@@ -7,6 +7,11 @@ Location:
 
 <hr>
 
+## ☕ Check in & Coffee, Welcome
+_9:00 - 10:45 am_ 
+
+<hr>
+
 ## 🗺️ Digital Humanities + Mapping
 _10:45am - 12:00_ 
 
