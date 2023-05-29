@@ -1,6 +1,4 @@
 site_name: Humanities Mapping
-repo_url: https://apjanco.github.io/leaflet-course/
-repo_name: apjanco/leaflet-course
 theme:
   name: material
   font:
