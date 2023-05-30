@@ -14,9 +14,9 @@ In this project, we will learn about spatial data and accessibility on the Unive
 
 ### OpenStreetMap 
 
-- [What is OpenStreetMap and how it is better than Google Maps?](https://www.geoapify.com/what-is-openstreetmap-and-how-it-is-better-than-google-maps)
+- [OpenStreetMap Guide](https://wiki.openstreetmap.org/wiki/Join_the_community)
 
-- [OpenStreetMap Data](https://wiki.openstreetmap.org/wiki/Beginners_Guide_1.3)
+- [OSM Editor](https://www.openstreetmap.org/edit#map=19/39.95239/-75.19377)
 
 - [Humanitarian OpenStreetMap](https://www.hotosm.org/)
 
@@ -42,10 +42,10 @@ In this project, we will learn about spatial data and accessibility on the Unive
 
 <hr>
 
-## 🌍 Evaluate Existing Resources and OSM Data
+## 🌍 Evaluate Existing Resources against OSM Data
 _1:30 - 3:00 pm_ 
 
-- [Rapid](https://rapideditor.org/edit#background=Bing&datasets=fbRoads,msBuildings&disable_features=boundaries&map=17.84/39.95194/-75.19386)
+- [iD](https://www.openstreetmap.org/edit#map=19/39.95239/-75.19377), or [other editors](https://wiki.openstreetmap.org/wiki/Comparison_of_editors)
 
 - [Overpass](https://overpass-turbo.eu/)
 
@@ -61,8 +61,7 @@ _1:30 - 3:00 pm_
 ## 🌏 Update OSM Data 
 _3:30 - 5:00 pm_ 
 
-- Project update form 
-- Add updates to OSM using Rapid 
+- Add updates to OSM using iD 
 - Save to geoJSON for Leaflet maps
 
 <hr>
