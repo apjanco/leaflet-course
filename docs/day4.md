@@ -28,7 +28,6 @@ _10:00 am - 12:00 pm_
 ## 😏 Leaflet Experiments
 _1:30 - 3:00 pm_ 
 
--[Data humanism](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold)
 - [Leaflet examples](https://tomickigrzegorz.github.io/leaflet-examples/) and [code](https://github.com/tomickigrzegorz/leaflet-examples/tree/master/docs) 
 - [Experiments](https://github.com/jwasilgeo/leaflet-experiments)
 - [Figures in the Sky: How cultures across the World have seen their myths and legends in the stars](https://figuresinthesky.visualcinnamon.com/)

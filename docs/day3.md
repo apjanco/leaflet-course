@@ -28,9 +28,10 @@ _10:00 am - 12:00 pm_
 _1:30 - 3:00 pm_ 
 
 - [Make a Web Map with Leaflet](https://blog.glitch.com/post/make-a-web-map-with-leaflet)
-- [Leaflet quick start](https://leafletjs.com/examples/quick-start/)
 - [CSS -- style.css](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Loading data into your map (CSV, [GeoJSON](https://leafletjs.com/examples/geojson/))
+- [Leaflet Overpass Layer](https://github.com/GuillaumeAmat/leaflet-overpass-layer)
+- [Demo](https://stackblitz.com/edit/leaflet-overpass-layer-demo?file=index.js)
 
 <hr>
 

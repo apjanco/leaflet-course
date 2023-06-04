@@ -47,9 +47,7 @@ _1:30 - 3:00 pm_
 
 - [iD](https://www.openstreetmap.org/edit#map=19/39.95239/-75.19377), or [other editors](https://wiki.openstreetmap.org/wiki/Comparison_of_editors)
 
-- [Overpass](https://overpass-turbo.eu/)
-
-- [Geofabrik-Downloadserver](http://download.geofabrik.de/)
+- [Form to record updates](https://docs.google.com/forms/d/e/1FAIpQLSehWzJ7sHvMtUbMqjKpsdQBj9yK34Jl4NDljSXhoCvBmP0a7A/viewform?usp=sf_link)
 
 
 <hr>
@@ -62,7 +60,6 @@ _1:30 - 3:00 pm_
 _3:30 - 5:00 pm_ 
 
 - Add updates to OSM using iD 
-- Save to geoJSON for Leaflet maps
 
 <hr>
 
