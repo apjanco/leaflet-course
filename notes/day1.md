@@ -1,13 +1,14 @@
 ## Activity:Identify participant goals and priorities for the course 
 - Similar to humetrics, print out common terms for goals/outcomes.
-- on stickies write:
-    - what I want to learn
-    - what I can share
-    - what I care most about
-What I can give, what I'm working on, what id like to do
+
+- ask the students to sort/organize them, combine them to describe (explain wording):
+    - Who I am (what words describe me)
+    - What I want to learn
+    - What I can share
+Tell us why you chose the words that you did.
+First model with myself how this works.
 
 
-- ask the students to sort/organize them and explain what it means
 - re-write, re-visit course description, make revisions as needed
 
 Course outline, scholarship, data, maps 
@@ -15,7 +16,7 @@ Course outline, scholarship, data, maps
 
 ## Finding Places in Texts and Images
 
-- walk-through the Finding Places article 
+- Example of a project. walk-through the Finding Places article 
 - notebook https://colab.research.google.com/drive/1-atKuidIUkaTfxXkSVc5Kt8E2uwozQTc?usp=sharing
 - world historical gazetteer  https://whgazetteer.org/
 

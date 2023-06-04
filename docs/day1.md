@@ -31,9 +31,11 @@ _10:45am - 12:00_
 _1:30 - 3:00 pm (90 minutes)_
 
 - [Geocoding](https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer)
+    - [Finding Places in Text Notebook](https://colab.research.google.com/drive/1-atKuidIUkaTfxXkSVc5Kt8E2uwozQTc?usp=sharing)
+    - [World Historical Gazetteer](https://whgazetteer.org/)
 
 - [Geolocation](https://www.bellingcat.com/tag/geolocation/)
-
+    - [Bellingcat OpenStreetMap search](https://osm-search.bellingcat.com/)
 
 <hr>
 
@@ -42,13 +44,14 @@ _1:30 - 3:00 pm (90 minutes)_
 <hr>
 
 
-## 🦮 DH Project Reviews
+## 🐕 DH Project Reviews
 _3:30 - 5:00 pm (90 minutes)_ 
 
-- Group project: Review of digital humanities projects and their use of mapping. In pairs, spend 30-40 minutes reviewing the map and associated materials. Prepare a short presentation to the group (5-6 minutes) that offers a brief summary of the project and its purpose, describe its use of mapping technologies as well as interesting, outstanding or problematic issues. <sup style="font-size: 50%;">[1](https://reviewsindh.pubpub.org/review-process)</sup> 
+- Group project: Review of digital humanities projects and their use of mapping. In pairs, spend 30-40 minutes reviewing the map and associated materials. Prepare a short presentation to the group (5-10 minutes) that offers a brief summary of the project and its purpose, describe its use of mapping technologies as well as interesting, outstanding or problematic issues. <sup style="font-size: 50%;">[1](https://reviewsindh.pubpub.org/review-process)</sup> 
 
-    - Torn Apart / Separados, vol. 2
-        - [map](https://xpmethod.columbia.edu/torn-apart/volume/2/)
+    - Torn Apart / Separados
+        - [A shocking map of America’s vast “immigrant detention machine”](https://www.fastcompany.com/90180570/a-shocking-map-of-americas-vast-immigrant-detention-machine)
+        - [map](https://xpmethod.columbia.edu/torn-apart/volume/1/)
         - [data](https://github.com/xpmethod/torn-apart-open-data)
 
     - Slave Revolt in Jamaica, 1760-1761
@@ -58,7 +61,7 @@ _3:30 - 5:00 pm (90 minutes)_
 
     - The Chinese Deathscape: Grave Reform in Modern China
         - [site](https://chinesedeathscape.org/)
-        - [about the "Graves Platform](https://chinesedeathscape.supdigital.org/read/colophon)
+        - [about the "Graves Platform"](https://chinesedeathscape.supdigital.org/read/colophon)
 
     - Pictoral St. Louis
         - [map](http://jarednielsen.com/pictorial-st-louis/index.html)
