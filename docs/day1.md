@@ -36,6 +36,7 @@ _1:30 - 3:00 pm (90 minutes)_
 
 - [Geolocation](https://www.bellingcat.com/tag/geolocation/)
     - [Bellingcat OpenStreetMap search](https://osm-search.bellingcat.com/)
+    - [Forensic Architecture](https://forensic-architecture.org/methodology/geolocation)
 
 <hr>
 
