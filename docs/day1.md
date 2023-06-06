@@ -76,7 +76,12 @@ _3:30 - 5:00 pm (90 minutes)_
     - Chernobyl/Chornobyl Project
         - [map](https://harvard-cga.maps.arcgis.com/apps/webappviewer/index.html?id=5143021e6379448c966900096f21b5e3)
         - [about](https://gis.huri.harvard.edu/chornobyl)
-        
+
+    - In the Same Boats
+        - [map](http://sameboats.org/)
+        - [code](https://github.com/kshitijdeota/sameboats)
+        - [Leaflet.curve](https://elfalem.github.io/Leaflet.curve/)
+
     - Another project of your choosing. Perhaps from this [list?](http://anterotesis.com/wordpress/mapping-resources/dh-gis-projects/) Or [this Zotero library?](https://www.zotero.org/groups/7412/humanitiesgis/collections/8EB7UQHC) Perhaps [a directory?](https://geohumanities.org/?page_id=125)
 
 <hr>

@@ -32,3 +32,5 @@ What is the main idea, how does the map support that idea,
 What ideas could you build on in your own work?
 What would you need to make that? 
 
+St. Louis Map 
+https://github.com/coryasilva/Leaflet.ExtraMarkers
