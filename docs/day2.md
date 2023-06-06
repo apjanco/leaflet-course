@@ -56,10 +56,10 @@ _1:30 - 3:00 pm_
 
 <hr>
 
-## 🌏 Update OSM Data 
+## 🌏 JavaScript
 _3:30 - 5:00 pm_ 
 
-- Add updates to OSM using iD 
+- [JavaScript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
 
 <hr>
 
