@@ -30,6 +30,27 @@ _1:30 - 3:00 pm_
 - [Make a Web Map with Leaflet](https://blog.glitch.com/post/make-a-web-map-with-leaflet)
 - [CSS -- style.css](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Loading data into your map (CSV, [GeoJSON](https://leafletjs.com/examples/geojson/))
+
+1. Download a CSV file from [here](https://github.com/AccessibilityMapping/AMP/tree/master/Data)
+2. Change the 'x' and 'y' column to 'lat' and 'long'
+3. Convert the CSV to geoJSON using [geojson.io](http://geojson.io)
+4. Copy the geoJSON data into the script below
+
+```js
+let map = L.map('map').setView([39.952, -75.1932], 18); 
+L.tileLayer(
+  "https://tile.openstreetmap.org/{z}/{x}/{y}.png" 
+).addTo(map);
+
+let data = <paste date here>
+
+L.geoJSON(data, {
+  onEachFeature: function (feature, layer) {
+    layer.bindPopup('<h1>'+feature.properties["Building name"] + '</h1>');
+  }
+}).addTo(map);
+```
+
 - [Leaflet Overpass Layer](https://github.com/GuillaumeAmat/leaflet-overpass-layer)
 - [Demo](https://stackblitz.com/edit/leaflet-overpass-layer-demo?file=index.js)
 
