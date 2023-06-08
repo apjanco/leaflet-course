@@ -30,6 +30,7 @@ _1:30 - 3:00 pm_
 
 - [Leaflet examples](https://tomickigrzegorz.github.io/leaflet-examples/) and [code](https://github.com/tomickigrzegorz/leaflet-examples/tree/master/docs) 
 - [Experiments](https://github.com/jwasilgeo/leaflet-experiments)
+- [More examples](https://maps.unomaha.community/cloud/code/Leaflet/index.htm)
 - [Figures in the Sky: How cultures across the World have seen their myths and legends in the stars](https://figuresinthesky.visualcinnamon.com/)
 
 <hr>
