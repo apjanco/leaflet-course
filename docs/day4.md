@@ -35,6 +35,10 @@ _1:30 - 3:00 pm_
 - Accessibility Map (in progress)
     - [map](https://buttoned-wise-woolen.glitch.me/)
     - [code]((https://glitch.com/edit/#!/buttoned-wise-woolen))
+    - [building data](https://apjanco.github.io/leaflet-course/assets/data/buildings.json)
+    - [entrances data](https://apjanco.github.io/leaflet-course/assets/data/entrances.json)
+    - [interiors data](https://apjanco.github.io/leaflet-course/assets/data/interiors.json)
+    - [obstructions data](https://apjanco.github.io/leaflet-course/assets/data/obstructions.json)
 <hr>
 
 ## ☕ Coffee Break
