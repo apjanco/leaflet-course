@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "ObjectID": 3,
+          "GlobalID": "547bca46-f2c3-4726-82a3-262c6d73dedf",
+          "Building name": "Houston Hall",
+          "Building code": "CAMPUS-245",
+          "Inaccessible spaces": "yes",
+          "If yes, describe these": "Stairs on sides of floors on first floor. Third floor East side accessible only by stairwells.",
+          "Braille/tactile signage?": "yes",
+          "If yes, describe": "Braille for classroom signs. Braille signs are sometimes too high to comfortably reach in a wheelchair.",
+          "How are the hallways lit?": "artificial",
+          "Describe the lighting": "Generally fine, dim in basement.",
+          "Chemicals and allergens?": "No",
+          "Number of floors": 4,
+          "Number of stairwells": 4,
+          "Number of elevators": 2,
+          "Number of accessible bathrooms": 10,
+          "Number of gender-neutral bathrooms": 0,
+          "Gender-neutral accessible bathrooms?": "",
+          "Total bathrooms": 10,
+          "Are there any lactation spaces?": "no",
+          "Are there prayer or meditation spaces?": "yes",
+          "Comments and additional information": "Accessible water fountain on third floor, second floor, first floor. Trash can blocking entrance to 301. Heavy door to stairwells on West side of building. Difficult to access meditation space and bathrooms on East side of second floor.",
+          "CreationDate": "3/2/2018 9:37:50 PM",
+          "Creator": "",
+          "EditDate": "3/2/2018 9:37:50 PM",
+          "Editor": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1938425912727,
+            39.9509335207107
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ObjectID": 4,
+          "GlobalID": "b49473be-cbe7-4e1d-a882-52c777dfe7c2",
+          "Building name": "Schattner Center",
+          "Building code": 173,
+          "Inaccessible spaces": "no",
+          "If yes, describe these": "",
+          "Braille/tactile signage?": "yes",
+          "If yes, describe": "Braille signs outside of every classroom or lecture hall",
+          "How are the hallways lit?": "artificial",
+          "Describe the lighting": "",
+          "Chemicals and allergens?": "Often there are chemical smells from dental lab work",
+          "Number of floors": 3,
+          "Number of stairwells": "",
+          "Number of elevators": 1,
+          "Number of accessible bathrooms": 3,
+          "Number of gender-neutral bathrooms": 0,
+          "Gender-neutral accessible bathrooms?": 0,
+          "Total bathrooms": 3,
+          "Are there any lactation spaces?": "yes",
+          "Are there prayer or meditation spaces?": "no",
+          "Comments and additional information": "",
+          "CreationDate": "3/2/2018 9:58:44 PM",
+          "Creator": "",
+          "EditDate": "3/2/2018 9:58:44 PM",
+          "Editor": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.20297,
+            39.95268
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ObjectID": 5,
+          "GlobalID": "998690a3-853d-436e-a4f4-f679e42bd0e9",
+          "Building name": "Stiteler Hall",
+          "Building code": 550,
+          "Inaccessible spaces": "yes",
+          "If yes, describe these": "Second floor (Political Science department offices) not accessible by elevator. All but one entrance inaccessible. Basement restrooms inaccessible by elevator and require PennCard.",
+          "Braille/tactile signage?": "",
+          "If yes, describe": "",
+          "How are the hallways lit?": "artificial",
+          "Describe the lighting": "Silverstein Forum has dim lighting.",
+          "Chemicals and allergens?": "",
+          "Number of floors": 3,
+          "Number of stairwells": 3,
+          "Number of elevators": 0,
+          "Number of accessible bathrooms": 1,
+          "Number of gender-neutral bathrooms": 1,
+          "Gender-neutral accessible bathrooms?": 1,
+          "Total bathrooms": 5,
+          "Are there any lactation spaces?": "no",
+          "Are there prayer or meditation spaces?": "no",
+          "Comments and additional information": "Accessible restroom only accessible by pin code that only building administrator knows.",
+          "CreationDate": "3/2/2018 10:00:02 PM",
+          "Creator": "",
+          "EditDate": "3/2/2018 10:00:02 PM",
+          "Editor": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.19713,
+            39.95274
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ObjectID": 6,
+          "GlobalID": "e50aff28-d878-42fa-9e0b-975fcea922bd",
+          "Building name": "David Rittenhouse Laboratory",
+          "Building code": 510,
+          "Inaccessible spaces": "yes",
+          "If yes, describe these": "Some of the lecture halls do not have accessible seating ",
+          "Braille/tactile signage?": "yes",
+          "If yes, describe": "Some of the classrooms have Braille signage most do not",
+          "How are the hallways lit?": "artificial",
+          "Describe the lighting": "Ground floor and basement are not well lit. Relies on natural lighting which is not always good. ",
+          "Chemicals and allergens?": "",
+          "Number of floors": 4,
+          "Number of stairwells": 4,
+          "Number of elevators": 2,
+          "Number of accessible bathrooms": "",
+          "Number of gender-neutral bathrooms": "",
+          "Gender-neutral accessible bathrooms?": "",
+          "Total bathrooms": "",
+          "Are there any lactation spaces?": "no",
+          "Are there prayer or meditation spaces?": "no",
+          "Comments and additional information": "",
+          "CreationDate": "3/2/2018 10:02:17 PM",
+          "Creator": "",
+          "EditDate": "3/2/2018 10:02:17 PM",
+          "Editor": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.18979,
+            39.95199
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ObjectID": 7,
+          "GlobalID": "3d62acdd-06af-461e-bb79-dea9e063c4e9",
+          "Building name": "Claudia Cohen Hall",
+          "Building code": "",
+          "Inaccessible spaces": "yes",
+          "If yes, describe these": "Departmental offices on each floor are behind a heavy door that does not have a push plate and may be less than 32 in. wide.",
+          "Braille/tactile signage?": "yes",
+          "If yes, describe": "Signage available but our of reach for a wheelchair user",
+          "How are the hallways lit?": "artificial",
+          "Describe the lighting": "Dim, but visible",
+          "Chemicals and allergens?": "None",
+          "Number of floors": 6,
+          "Number of stairwells": 3,
+          "Number of elevators": 1,
+          "Number of accessible bathrooms": 8,
+          "Number of gender-neutral bathrooms": 0,
+          "Gender-neutral accessible bathrooms?": 2,
+          "Total bathrooms": 10,
+          "Are there any lactation spaces?": "no",
+          "Are there prayer or meditation spaces?": "no",
+          "Comments and additional information": "Accessible water fountains are located on each floor next to the bathrooms.",
+          "CreationDate": "3/9/2018 9:35:05 PM",
+          "Creator": "",
+          "EditDate": "3/10/2018 2:38:52 PM",
+          "Editor": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1947150254678,
+            39.9513889338945
+          ]
+        }
+      }
+    ]
+  }
