@@ -90,8 +90,8 @@ _3:30 - 5:00 pm (90 minutes)_
 ## ☀️ Opening Keynote 
 _5:15 - 6:00 pm_
 
-#### Shannon Mattern 
-Modeling Doubt, Coding Humility: A Speculative Syllabus
+#### Catherine Knight Steele
+Doing Digital Humanities with Radical Intentionality: Lessons from Black Feminist Praxis
 
 <hr>
 
