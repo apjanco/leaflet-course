@@ -27,15 +27,14 @@ In this project, we will learn about spatial data and accessibility on the Unive
 
 - [Accessibility-related map features](https://wiki.openstreetmap.org/wiki/Disabilities)
   
-### Existing Accessiblity Resources on Campus
+### Existing Accessibility Resources on Campus
 
 - [PennAccess](https://facilities.upenn.edu/maps/pennaccess)
 
 - [Accessibility Mapping Project](https://web.sas.upenn.edu/access-map/accessibility-map/)
     - [data](https://github.com/AccessibilityMapping/AMP/tree/master/Data)
 
-- [WheelMap](https://wheelmap.org/nodes/-32120084)
-
+### Site-visit to Fine Arts Library  
 
 <hr>
 
@@ -48,7 +47,7 @@ _1:30 - 3:00 pm_
 
 - [iD](https://www.openstreetmap.org/edit#map=19/39.95239/-75.19377), or [other editors](https://wiki.openstreetmap.org/wiki/Comparison_of_editors)
 
-- [Form to record updates](https://docs.google.com/forms/d/e/1FAIpQLSehWzJ7sHvMtUbMqjKpsdQBj9yK34Jl4NDljSXhoCvBmP0a7A/viewform?usp=sf_link)
+- [Form to record updates](https://upenn.libwizard.com/f/for-penn-access)
 
 
 <hr>
