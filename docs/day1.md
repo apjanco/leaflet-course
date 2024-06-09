@@ -16,7 +16,7 @@ _9:00 - 10:45 am_
 _10:45am - 12:00_ 
 
 - Group introductions and review of workplan 
-- Identify participant goals and priorities for the course 
+- [Identify participant goals and priorities for the course](https://apjanco.github.io/leaflet-course/miro/) 
 - [Using Maps to See Beyond the Obvious](https://kit.exposingtheinvisible.org/en/maps.html) / [Usando Mapas para Ver más Allá de lo Obvio](https://kit.exposingtheinvisible.org/es/maps.html)
 
 - [Mapping the Field](https://mappingthefield.wordsinspace.net/2021/) syllabus
