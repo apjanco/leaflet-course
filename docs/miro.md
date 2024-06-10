@@ -29,3 +29,5 @@
 - [Gillian Macdonald](https://miro.com/app/board/uXjVK9q3eGI=/?share_link_id=309662455360)
 
 - [Clifford Robinson](https://miro.com/app/board/uXjVK9q3eGg=/?share_link_id=1359941232)
+  
+- [Kim Akano](https://miro.com/app/board/uXjVK9-3_As=/?share_link_id=286431790276)
