@@ -108,10 +108,10 @@ _3:30 - 5:00 pm (90 minutes)_
         - [code](https://github.com/upenndigitalscholarship/monuments-research-group)
         - [article](https://theconversation.com/for-150-years-black-journalists-have-known-what-confederate-monuments-really-stood-for-217895) 
 
-    - [Machines Reading Maps](https://machines-reading-maps.github.io/)
-      - [code](https://github.com/machines-reading-maps)
-      - [about](https://machines-reading-maps.github.io/rumsey/)
-      - [search by text on maps](https://www.davidrumsey.com/)
+    - [Machines Reading Maps](https://machines-reading-maps.github.io/) 
+        - [code](https://github.com/machines-reading-maps)
+        - [about](https://machines-reading-maps.github.io/rumsey/)
+        - [search by text on maps](https://www.davidrumsey.com/)
         
     - Another project of your choosing. Perhaps from this [list?](http://anterotesis.com/wordpress/mapping-resources/dh-gis-projects/) Or [this Zotero library?](https://www.zotero.org/groups/7412/humanitiesgis/collections/8EB7UQHC) Perhaps [a directory?](https://geohumanities.org/?page_id=125)
 
