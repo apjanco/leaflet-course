@@ -3,7 +3,7 @@
 Location:
 
 - Latitude + Longitude [39.952, -75.193](https://www.openstreetmap.org/#map=18/39.95268/-75.19372) 
-- [Van Pelt Library Room 627](https://www.library.upenn.edu/floor-plans/vanpelt/sixth)
+- [Van Pelt Library, Room 124, Class of 1968 Seminar Room](https://www.library.upenn.edu/spaces/class-1968-seminar-room)
 
 <hr>
 
