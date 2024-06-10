@@ -30,7 +30,8 @@ _10:45am - 12:00_
 ##  It's me JavaScript
 _1:30 - 2:15 pm (45 minutes)_
 
-[Silly story generator](https://mdn.github.io/learning-area/javascript/introduction-to-js-1/assessment-finished/)
+[Silly story generator](https://mdn.github.io/learning-area/javascript/introduction-to-js-1/assessment-finished/) 
+
 [JupyterLab](https://apjanco.github.io/leaflet-course/jupyter/lab/index.html)
 
 1. [character strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings) 
