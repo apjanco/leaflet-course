@@ -60,6 +60,7 @@ _10:45am - 12:00_
 _1:30 - 2:15 pm (45 minutes)_
 
 [Silly story generator](https://mdn.github.io/learning-area/javascript/introduction-to-js-1/assessment-finished/)
+[JupyterLab](https://apjanco.github.io/leaflet-course/jupyter/lab/index.html)
 
 1. [character strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings) 
 2. [string methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
