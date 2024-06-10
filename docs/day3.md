@@ -73,6 +73,7 @@ _3:30 pm - 5:00 pm_
 - [Panes](https://leafletjs.com/examples/map-panes/)
 - [Historical Basemaps](https://github.com/aourednik/historical-basemaps)
 - [Georectifying historical maps](https://www.davidrumsey.com/view/georeferencer)
+- [MapWarper](https://mapwarper.net/)
 
 <hr>
 
