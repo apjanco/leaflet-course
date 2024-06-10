@@ -14,8 +14,6 @@
 
 - [Simone Gulliver](https://miro.com/app/board/uXjVK9qsUvs=/?share_link_id=729114995260)
 
-- [VanJessica Gladney](https://miro.com/app/board/uXjVK9q1sfg=/?share_link_id=3447012732)
-
 - [Amelia Carter](https://miro.com/app/board/uXjVK9q9OvI=/?share_link_id=843753872118)
 
 - [Renee Olo](https://miro.com/app/board/uXjVK9qrwCo=/?share_link_id=741605138921)
