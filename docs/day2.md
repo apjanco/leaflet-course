@@ -63,6 +63,7 @@ _3:30 - 5:00 pm_
 - [African students survey: index cards, 1961](https://credo.library.umass.edu/view/full/mums411-b105-f002)
 - [pdfs](https://drive.google.com/file/d/1mxcWUgI5NvtajKjnCWOZ-dwS4C_BaBc_/view)
 - [data](https://docs.google.com/spreadsheets/d/12NRElO97-FoJa3Z9f4GTmDc1_ewbYxxF6KwvU2LvvRc/edit#gid=0)
+- [colab with the data](https://colab.research.google.com/drive/1MNUlFTN46KP-g39zEs_aZaESvJHFoxnT?usp=sharing)
 - [World Historical Gazetteer API](https://www.whgazetteer.org/usingapi/)
 - [Getty thesaurus of geographic names ](http://www.getty.edu/research/tools/vocabulary/tgn/index.html)
 <hr>
