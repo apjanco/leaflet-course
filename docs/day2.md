@@ -49,7 +49,8 @@ _1:30 - 3:00 pm_
 
 - [Form to record updates](https://upenn.libwizard.com/f/for-penn-access)
 
-
+- [GeoJSON spec](https://stevage.github.io/geojson-spec/)
+- [geojson.io](https://geojson.io/#map=12.98/39.95336/-75.20187)
 <hr>
 
 ## ☕ Coffee Break
