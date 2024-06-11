@@ -8,23 +8,9 @@
 
 ---
 
-- [Nicole Adrian](https://miro.com/app/board/uXjVK9qzAg8=/?share_link_id=214823334461)
-
-- [Marc Ridgell](https://miro.com/app/board/uXjVK9qsUu4=/?share_link_id=138136609811)
-
-- [Simone Gulliver](https://miro.com/app/board/uXjVK9qsUvs=/?share_link_id=729114995260)
-
 - [Amelia Carter](https://miro.com/app/board/uXjVK9q9OvI=/?share_link_id=843753872118)
 
-- [Renee Olo](https://miro.com/app/board/uXjVK9qrwCo=/?share_link_id=741605138921)
-
-- [Ali Noori](https://miro.com/app/board/uXjVK9qx3f4=/?share_link_id=482494998831)
-
 - [Weston Bland](https://miro.com/app/board/uXjVK9q1tlU=/?share_link_id=698074492378)
-
-- [Marie Reeb](https://miro.com/app/board/uXjVK9q67vk=/?share_link_id=51059055977)
-
-- [Sana Rizvi](https://miro.com/app/board/uXjVK9q3eFk=/?share_link_id=496830793696)
 
 - [Gillian Macdonald](https://miro.com/app/board/uXjVK9q3eGI=/?share_link_id=309662455360)
 
