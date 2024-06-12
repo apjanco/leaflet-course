@@ -10,7 +10,7 @@ _9:00 - 10:00 am_
 ## 🍃 Hello Leaflet
 _10:00 am - 12:00 pm_ 
 
-- [How to Use Glitch](https://help.glitch.com/kb/section/2/)
+- [How to Use Glitch](https://help.glitch.com/hc/en-us/sections/16285895402765-Getting-Started)
 - [Hello Leaflet!](https://hexagonal-sapphire-dress.glitch.me/)
 - [Hello Leaflet! Code](https://glitch.com/edit/#!/hexagonal-sapphire-dress)
     - [HyperText Markup Language (HTML) -- index.html](https://developer.mozilla.org/en-US/docs/Web/HTML) essentials
